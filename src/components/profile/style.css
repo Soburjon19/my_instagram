@@ -1,0 +1,4 @@
+.comment-input:focus {
+    outline: none !important;
+    border-color: none;
+}
