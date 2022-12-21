@@ -1,8 +1,8 @@
 # Welcome to my project Instagram
-Welcome to my project <a href="https://my-first-instagram.netlify.app/login">Instagram</a>
+Welcome to my project <a href="https://soburjon-instagram.netlify.app/">Instagram</a>
 # Demo
 
-Netlify <a href="https://my-first-instagram.netlify.app/login">https://my-first-instagram.netlify.app/</a> <br/>
+Netlify <a href="https://soburjon-instagram.netlify.app/">https://soburjon-instagram.netlify.app/</a> <br/>
 AWS <a href="https://master.d24cj9q51rrgof.amplifyapp.com/">https://master.d24cj9q51rrgof.amplifyapp.com/</a>
 # 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soburjon-daminov-807b41252)
