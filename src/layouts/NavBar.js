@@ -2,14 +2,9 @@ import React, { useContext, useState, useEffect, useRef } from "react";
 import { FaPlusSquare } from "react-icons/fa";
 import { Link, useNavigate } from "react-router-dom";
 import { EDIT_PROFILE, HOME, LOGIN } from "../constants/routes";
-// import UserSvg from "../icons/UserSvg";
-// import SquarePlus from "../icons/SquarePlus";
-// import HouseSvg from "../icons/HouseSvg";
-// import SendSvg from "../icons/SendSvg";
 import { HiHome } from "react-icons/hi";
 import UserContext from "./../context/user";
 import FirebaseContext from "./../context/firebase";
-// import SignOut from "../icons/SignOut";
 import { SIGN_UP } from "./../constants/routes";
 import CreatePost from "../components/createPost/CreatePost";
 import useUser from "../hooks/useUser";
@@ -88,17 +83,17 @@ const NavBar = () => {
             <div className="flex">
               {user ? (
                 <>
-                  <div className="p-2 mt-6 mr-2 h-90">
+                  <div className="p-2 mt-6 mr-2 h-90 text-white">
                     <HiHome className="text-[1.8rem]" />
                   </div>
-                  <div className="cursor-pointer flex items-center justify-center mr-6"
+                  <div className="cursor-pointer flex items-center justify-center mr-6 text-white"
                     onClick={() => setOpen(true)}>
                     <div></div>
-                    <div className="mt-5 mr-2">
+                    <div className="p-2 mt-5 mr-2">
                       <FaPlusSquare className="text-[1.8rem]" />
                     </div>
 
-                    <div className="mt-4 cursor-pointer flex items-center justify-center mr-4">
+                    <div className="mt-4 cursor-pointer flex items-center justify-center mr-4  text-white">
                       <button type="button" title="Sign Out" onClick={() => firebase.auth().signOut()}
                         className="p-4">
                         <IoLogOut className="text-[1.8rem]" />
