@@ -2,7 +2,8 @@
 Welcome to my project <a href="https://my-first-instagram.netlify.app/login">Instagram</a>
 # Demo
 
-<a href="https://my-first-instagram.netlify.app/login">https://my-first-instagram.netlify.app/</a>
+Netlify <a href="https://my-first-instagram.netlify.app/login">https://my-first-instagram.netlify.app/</a>
+AWS <a href="https://master.d24cj9q51rrgof.amplifyapp.com/">https://master.d24cj9q51rrgof.amplifyapp.com/</a>
 # 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soburjon-daminov-807b41252)
 [![instagram](https://img.shields.io/badge/instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gafforiy_s/)
