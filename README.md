@@ -1,15 +1,20 @@
 # Welcome to my project Instagram
-Welcome to my project <a href="https://soburjon-instagram.netlify.app/">Instagram</a>
+Welcome to my project <a href="https://soburjon-instagram.netlify.app">Instagram</a>
+This's my <a href="https://github.com/Soburjon19/instagram-clone.git"> Git hub</a>
 # Demo
 
-Netlify <a href="https://soburjon-instagram.netlify.app/">https://soburjon-instagram.netlify.app/</a> <br/>
-AWS <a href="https://master.d24cj9q51rrgof.amplifyapp.com/">https://master.d24cj9q51rrgof.amplifyapp.com/</a>
+Netlify <a href="https://soburjon-instagram.netlify.app">https://my-first-instagram.netlify.app/</a> <br/>
+AWS <a href="https://master.d24cj9q51rrgof.amplifyapp.com">https://master.d24cj9q51rrgof.amplifyapp.com/</a>
+
 # 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soburjon-daminov-807b41252)
 [![instagram](https://img.shields.io/badge/instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gafforiy_s/)
 [![instagram](https://img.shields.io/badge/telegram-002bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gafforiy_s/)
 
-# Abilities 
+## Task
+In this project, the task is to create an Instagram clone.
+
+## Description
 <ul>
 <li>Login and Signup</li>
 <li>Change you password.</li>
@@ -38,3 +43,21 @@ AWS <a href="https://master.d24cj9q51rrgof.amplifyapp.com/">https://master.d24cj
 <li>If a text post is large, then a glimpse of the post is shown and you can load more.</li>
 <li>Search users.</li>
 </ul>
+
+## Installation
+first you install the node module for that you need to type in the terminal
+```
+npm i or npm install
+```
+ and to give a run need to type
+```
+npm start
+```
+## Usage
+click on the link. creat new account and get to work
+
+### The Core Team
+
+
+<span><i>Made at <a href='https://qwasar.io'>Qwasar Silicon Valley</a></i></span>
+<span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
